@@ -1,6 +1,6 @@
 url=https://github.com/SachinKidambi/JavaApp.git
 git clone $url
-cd ./Java_sample_app/SpringMVCSecurityXML
+cd JavaApp/Java_sample_app/SpringMVCSecurityXML
 mvn clean install
 cd ./target
 mv SpringMVCSecurityXML.war sachin.war
